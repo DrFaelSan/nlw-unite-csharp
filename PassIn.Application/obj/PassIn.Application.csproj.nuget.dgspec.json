@@ -1,0 +1,264 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Rafael Inovvati\\Desktop\\NLW Unite\\backend\\PassIn\\PassIn.Application\\PassIn.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Rafael Inovvati\\Desktop\\NLW Unite\\backend\\PassIn\\PassIn.Application\\PassIn.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Rafael Inovvati\\Desktop\\NLW Unite\\backend\\PassIn\\PassIn.Application\\PassIn.Application.csproj",
+        "projectName": "PassIn.Application",
+        "projectPath": "C:\\Users\\Rafael Inovvati\\Desktop\\NLW Unite\\backend\\PassIn\\PassIn.Application\\PassIn.Application.csproj",
+        "packagesPath": "C:\\Users\\Rafael Inovvati\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rafael Inovvati\\Desktop\\NLW Unite\\backend\\PassIn\\PassIn.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rafael Inovvati\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/dr34mt34m/_packaging/Inovvati.Net/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Rafael Inovvati\\Desktop\\NLW Unite\\backend\\PassIn\\PassIn.Communication\\PassIn.Communication.csproj": {
+                "projectPath": "C:\\Users\\Rafael Inovvati\\Desktop\\NLW Unite\\backend\\PassIn\\PassIn.Communication\\PassIn.Communication.csproj"
+              },
+              "C:\\Users\\Rafael Inovvati\\Desktop\\NLW Unite\\backend\\PassIn\\PassIn.Exceptions\\PassIn.Exceptions.csproj": {
+                "projectPath": "C:\\Users\\Rafael Inovvati\\Desktop\\NLW Unite\\backend\\PassIn\\PassIn.Exceptions\\PassIn.Exceptions.csproj"
+              },
+              "C:\\Users\\Rafael Inovvati\\Desktop\\NLW Unite\\backend\\PassIn\\PassIn.Infrastructure\\PassIn.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Rafael Inovvati\\Desktop\\NLW Unite\\backend\\PassIn\\PassIn.Infrastructure\\PassIn.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Rafael Inovvati\\Desktop\\NLW Unite\\backend\\PassIn\\PassIn.Communication\\PassIn.Communication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Rafael Inovvati\\Desktop\\NLW Unite\\backend\\PassIn\\PassIn.Communication\\PassIn.Communication.csproj",
+        "projectName": "PassIn.Communication",
+        "projectPath": "C:\\Users\\Rafael Inovvati\\Desktop\\NLW Unite\\backend\\PassIn\\PassIn.Communication\\PassIn.Communication.csproj",
+        "packagesPath": "C:\\Users\\Rafael Inovvati\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rafael Inovvati\\Desktop\\NLW Unite\\backend\\PassIn\\PassIn.Communication\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rafael Inovvati\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/dr34mt34m/_packaging/Inovvati.Net/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Rafael Inovvati\\Desktop\\NLW Unite\\backend\\PassIn\\PassIn.Exceptions\\PassIn.Exceptions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Rafael Inovvati\\Desktop\\NLW Unite\\backend\\PassIn\\PassIn.Exceptions\\PassIn.Exceptions.csproj",
+        "projectName": "PassIn.Exceptions",
+        "projectPath": "C:\\Users\\Rafael Inovvati\\Desktop\\NLW Unite\\backend\\PassIn\\PassIn.Exceptions\\PassIn.Exceptions.csproj",
+        "packagesPath": "C:\\Users\\Rafael Inovvati\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rafael Inovvati\\Desktop\\NLW Unite\\backend\\PassIn\\PassIn.Exceptions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rafael Inovvati\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/dr34mt34m/_packaging/Inovvati.Net/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Rafael Inovvati\\Desktop\\NLW Unite\\backend\\PassIn\\PassIn.Infrastructure\\PassIn.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Rafael Inovvati\\Desktop\\NLW Unite\\backend\\PassIn\\PassIn.Infrastructure\\PassIn.Infrastructure.csproj",
+        "projectName": "PassIn.Infrastructure",
+        "projectPath": "C:\\Users\\Rafael Inovvati\\Desktop\\NLW Unite\\backend\\PassIn\\PassIn.Infrastructure\\PassIn.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Rafael Inovvati\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rafael Inovvati\\Desktop\\NLW Unite\\backend\\PassIn\\PassIn.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rafael Inovvati\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/dr34mt34m/_packaging/Inovvati.Net/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.28, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.28, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

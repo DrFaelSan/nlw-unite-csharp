@@ -1,0 +1,12 @@
+C:\Users\Rafael Inovvati\Desktop\NLW Unite\backend\PassIn\PassIn.Communication\obj\Debug\net6.0\PassIn.Communication.csproj.AssemblyReference.cache
+C:\Users\Rafael Inovvati\Desktop\NLW Unite\backend\PassIn\PassIn.Communication\obj\Debug\net6.0\PassIn.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael Inovvati\Desktop\NLW Unite\backend\PassIn\PassIn.Communication\obj\Debug\net6.0\PassIn.Communication.AssemblyInfoInputs.cache
+C:\Users\Rafael Inovvati\Desktop\NLW Unite\backend\PassIn\PassIn.Communication\obj\Debug\net6.0\PassIn.Communication.AssemblyInfo.cs
+C:\Users\Rafael Inovvati\Desktop\NLW Unite\backend\PassIn\PassIn.Communication\obj\Debug\net6.0\PassIn.Communication.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Inovvati\Desktop\NLW Unite\backend\PassIn\PassIn.Communication\bin\Debug\net6.0\PassIn.Communication.deps.json
+C:\Users\Rafael Inovvati\Desktop\NLW Unite\backend\PassIn\PassIn.Communication\bin\Debug\net6.0\PassIn.Communication.dll
+C:\Users\Rafael Inovvati\Desktop\NLW Unite\backend\PassIn\PassIn.Communication\bin\Debug\net6.0\PassIn.Communication.pdb
+C:\Users\Rafael Inovvati\Desktop\NLW Unite\backend\PassIn\PassIn.Communication\obj\Debug\net6.0\PassIn.Communication.dll
+C:\Users\Rafael Inovvati\Desktop\NLW Unite\backend\PassIn\PassIn.Communication\obj\Debug\net6.0\refint\PassIn.Communication.dll
+C:\Users\Rafael Inovvati\Desktop\NLW Unite\backend\PassIn\PassIn.Communication\obj\Debug\net6.0\PassIn.Communication.pdb
+C:\Users\Rafael Inovvati\Desktop\NLW Unite\backend\PassIn\PassIn.Communication\obj\Debug\net6.0\ref\PassIn.Communication.dll

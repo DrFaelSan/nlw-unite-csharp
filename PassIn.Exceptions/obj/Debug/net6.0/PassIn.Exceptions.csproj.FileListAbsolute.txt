@@ -1,0 +1,12 @@
+C:\Users\Rafael Inovvati\Desktop\NLW Unite\backend\PassIn\PassIn.Exceptions\bin\Debug\net6.0\PassIn.Exceptions.deps.json
+C:\Users\Rafael Inovvati\Desktop\NLW Unite\backend\PassIn\PassIn.Exceptions\bin\Debug\net6.0\PassIn.Exceptions.dll
+C:\Users\Rafael Inovvati\Desktop\NLW Unite\backend\PassIn\PassIn.Exceptions\bin\Debug\net6.0\PassIn.Exceptions.pdb
+C:\Users\Rafael Inovvati\Desktop\NLW Unite\backend\PassIn\PassIn.Exceptions\obj\Debug\net6.0\PassIn.Exceptions.csproj.AssemblyReference.cache
+C:\Users\Rafael Inovvati\Desktop\NLW Unite\backend\PassIn\PassIn.Exceptions\obj\Debug\net6.0\PassIn.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael Inovvati\Desktop\NLW Unite\backend\PassIn\PassIn.Exceptions\obj\Debug\net6.0\PassIn.Exceptions.AssemblyInfoInputs.cache
+C:\Users\Rafael Inovvati\Desktop\NLW Unite\backend\PassIn\PassIn.Exceptions\obj\Debug\net6.0\PassIn.Exceptions.AssemblyInfo.cs
+C:\Users\Rafael Inovvati\Desktop\NLW Unite\backend\PassIn\PassIn.Exceptions\obj\Debug\net6.0\PassIn.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Inovvati\Desktop\NLW Unite\backend\PassIn\PassIn.Exceptions\obj\Debug\net6.0\PassIn.Exceptions.dll
+C:\Users\Rafael Inovvati\Desktop\NLW Unite\backend\PassIn\PassIn.Exceptions\obj\Debug\net6.0\refint\PassIn.Exceptions.dll
+C:\Users\Rafael Inovvati\Desktop\NLW Unite\backend\PassIn\PassIn.Exceptions\obj\Debug\net6.0\PassIn.Exceptions.pdb
+C:\Users\Rafael Inovvati\Desktop\NLW Unite\backend\PassIn\PassIn.Exceptions\obj\Debug\net6.0\ref\PassIn.Exceptions.dll

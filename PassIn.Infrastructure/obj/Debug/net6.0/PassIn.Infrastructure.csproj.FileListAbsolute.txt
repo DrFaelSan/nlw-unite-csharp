@@ -1,0 +1,12 @@
+C:\Users\Rafael Inovvati\Desktop\NLW Unite\backend\PassIn\PassIn.Infrastructure\bin\Debug\net6.0\PassIn.Infrastructure.deps.json
+C:\Users\Rafael Inovvati\Desktop\NLW Unite\backend\PassIn\PassIn.Infrastructure\bin\Debug\net6.0\PassIn.Infrastructure.dll
+C:\Users\Rafael Inovvati\Desktop\NLW Unite\backend\PassIn\PassIn.Infrastructure\bin\Debug\net6.0\PassIn.Infrastructure.pdb
+C:\Users\Rafael Inovvati\Desktop\NLW Unite\backend\PassIn\PassIn.Infrastructure\obj\Debug\net6.0\PassIn.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Rafael Inovvati\Desktop\NLW Unite\backend\PassIn\PassIn.Infrastructure\obj\Debug\net6.0\PassIn.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael Inovvati\Desktop\NLW Unite\backend\PassIn\PassIn.Infrastructure\obj\Debug\net6.0\PassIn.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Rafael Inovvati\Desktop\NLW Unite\backend\PassIn\PassIn.Infrastructure\obj\Debug\net6.0\PassIn.Infrastructure.AssemblyInfo.cs
+C:\Users\Rafael Inovvati\Desktop\NLW Unite\backend\PassIn\PassIn.Infrastructure\obj\Debug\net6.0\PassIn.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Inovvati\Desktop\NLW Unite\backend\PassIn\PassIn.Infrastructure\obj\Debug\net6.0\PassIn.Infrastructure.dll
+C:\Users\Rafael Inovvati\Desktop\NLW Unite\backend\PassIn\PassIn.Infrastructure\obj\Debug\net6.0\refint\PassIn.Infrastructure.dll
+C:\Users\Rafael Inovvati\Desktop\NLW Unite\backend\PassIn\PassIn.Infrastructure\obj\Debug\net6.0\PassIn.Infrastructure.pdb
+C:\Users\Rafael Inovvati\Desktop\NLW Unite\backend\PassIn\PassIn.Infrastructure\obj\Debug\net6.0\ref\PassIn.Infrastructure.dll
